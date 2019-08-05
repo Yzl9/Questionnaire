@@ -1,21 +1,20 @@
 # questionnaire
 
-> A Vue.js project
-
-## Build Setup
-
+```
+#介绍
 ``` bash
-# install dependencies
-npm install
+这是一个移动端web，问答小面项目，进入主页面，点击开始，出现题目，根据问题选择答案，点击下一题，一共5题，满分是100分。
 
-# serve with hot reload at localhost:8080
-npm run dev
+#技术栈
+vue+vuex+router+less
 
-# build for production with minification
-npm run build
 
-# build for production and view the bundle analyzer report
-npm run build --report
+
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+#技术栈
+
+``` bash
+vue+vuex+router+less
+
+```
